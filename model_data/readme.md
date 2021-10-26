@@ -1,0 +1,1 @@
+把3个pth文件放入model_data目录下
